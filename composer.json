@@ -1,0 +1,17 @@
+{
+    "name": "mouragilvan/helloworld",
+    "description": "Meu primeiro pacote do Composer",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MouraGilvan\\Helloworld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gilvan Moura"
+        }
+    ],
+    "require": {}
+}
